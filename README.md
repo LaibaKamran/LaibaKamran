@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laiba Kamran</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw14WvzyGOceADiCqty2m9l3&ust=1679672022588000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjWiYew8v0CFQAAAAAdAAAAABAR)"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laibakamran&label=Profile%20views&color=0e75b6&style=flat" alt="laibakamran" /> </p>
 
